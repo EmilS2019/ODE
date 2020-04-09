@@ -35,7 +35,7 @@ def eulersMethod(dt, startingPopulation, days, ode):
         currentPopulation = startingPopulation
         populationHistory = [0]
         populationHistory[0] = currentPopulation
-        for i in range(numberOfTimes-1):
+        for _ in range(numberOfTimes-1):
             currentPopulation = ode(currentPopulation, dt)
             #If the population drops below 0, quit
             #if (currentPopulation <= 0):

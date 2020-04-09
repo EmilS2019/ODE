@@ -7,6 +7,14 @@ startingPopulation = [30, 5]
 
 yaxis = ODEs.eulersMethod(dt, startingPopulation, days, ODEs.twoFishPopulation)
 xaxis = [i for i in range(0,int(days/dt))]
+
+
+P = []
+G = []
+for i in len(yaxis):
+    P.append(yaxis[0])
+    G.append(yaxis[1])
+    
 plt.plot(xaxis, yaxis)
 
 plt.ylabel('Fish')
