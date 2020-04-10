@@ -37,7 +37,7 @@ def extractTwoFishTypes(graph):
         #print(f"number of fish at day {i*dt} was P={P[i]} and G={G[i]}")#" and the error of P is {PError} and of G {GError}")
     return [P,G]
     
-for i in range(len(yaxis)):
+for i in range(1):
     fishes = extractTwoFishTypes(yaxis[i])
     plt.plot(fishes[0],fishes[1])
     #PG_1 = extractTwoFishTypes(yaxis[0])
@@ -59,8 +59,8 @@ newThing.append(ODEs.eulersMethod(1/16, 30, 50, ODEs.fishPopulation))
 
 
 plt.autoscale()
-plt.ylabel('Rainbowfish')
-plt.xlabel('Gourami')
+plt.ylabel('Gourami')
+plt.xlabel('Rainbowfish')
 plt.grid(True)
 plt.xticks(fontsize = 15)
 plt.yticks(fontsize = 15)
