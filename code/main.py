@@ -12,7 +12,6 @@ yaxis.append(ODEs.eulersMethod(dt, startingPopulation, days, ODEs.twoFishPopulat
 xaxis = [i*dt+1 for i in range(int(days/dt+1))]
 
 
-
 err = ODEs.eulersMethod(dt*2, startingPopulation, days*2, ODEs.twoFishPopulation)
 
 
@@ -32,16 +31,23 @@ def extractTwoFishTypes(graph):
         print(f"number of fish at day {i*dt} was P={P[i]} and G={G[i]}")#" and the error of P is {PError} and of G {GError}")
     return [P,G]
     
-PG_1 = extractTwoFishTypes(yaxis[0])
+#PG_1 = extractTwoFishTypes(yaxis[0])
 #PG_2 = extractTwoFishTypes(yaxis[1])
 #PG_3 = extractTwoFishTypes(yaxis[2])
 
-plt.plot(PG_1[0],PG_1[1])
+#plt.plot(PG_1[0],PG_1[1])
 #plt.plot(PG_2[0],PG_2[1])
 #plt.plot(PG_3[0],PG_3[1])
 #plt.plot(xaxis, yaxis)
 #plt.plot(xaxis, yaxis[0])
 #plt.plot(xaxis, yaxis[1])
+
+newThing = []
+newThing.append(ODEs.eulersMethod(1, 30, 50, ODEs.fishPopulation))
+print(newThing)
+plt.plot([i for i in range(len(newThing[0]))], newThing[0])
+
+
 plt.autoscale()
 plt.ylabel('Fish')
 plt.xlabel('Days')

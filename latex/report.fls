@@ -1,0 +1,36 @@
+PWD e:\projects\2020\April\Math Modelling\latex
+INPUT C:\Users\Emil\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT e:\projects\2020\April\Math Modelling\latex\report.tex
+OUTPUT e:\projects\2020\April\Math Modelling\latex\report.log
+INPUT E:\Filer\LATEx\Compiler\tex\latex\base\article.cls
+INPUT E:\Filer\LATEx\Compiler\tex\latex\base\article.cls
+INPUT E:\Filer\LATEx\Compiler\tex\latex\base\size10.clo
+INPUT E:\Filer\LATEx\Compiler\tex\latex\base\size10.clo
+INPUT E:\Filer\LATEx\Compiler\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT E:\Filer\LATEx\Compiler\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT e:\projects\2020\April\Math Modelling\latex\report.aux
+INPUT e:\projects\2020\April\Math Modelling\latex\report.aux
+OUTPUT e:\projects\2020\April\Math Modelling\latex\report.aux
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmr17.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmr12.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmr8.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmr6.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmmi12.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmmi8.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmmi6.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmsy10.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmsy8.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmsy6.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmr12.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmbx12.tfm
+OUTPUT e:\projects\2020\April\Math Modelling\latex\report.pdf
+INPUT C:\Users\Emil\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT e:\projects\2020\April\Math Modelling\latex\report.aux
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmr17.pfb
