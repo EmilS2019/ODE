@@ -19,8 +19,8 @@ def twoFishPopulation(startingPopulations, dt):
     #Second equation
     dGdt = -0.25*G+0.008*P*G
 
-    P += dPdt
-    G += dGdt
+    P += dPdt * dt
+    G += dGdt * dt
     return [P, G]
 
 
@@ -28,20 +28,15 @@ def eulersMethod(dt, startingPopulation, days, ode):
     numberOfTimes = int(days/dt)
     if (dt <= 0 or numberOfTimes <= 0 or isinstance(numberOfTimes, int)==False):
          print("Don't do that")
-         return [0]*numberOfTimes
+         return [0]*(numberOfTimes-1)
 
     #This function returns an array that contains the history of the fish population. 
     else:
         currentPopulation = startingPopulation
         populationHistory = [0]
         populationHistory[0] = currentPopulation
-        for _ in range(numberOfTimes-1):
+        for _ in range(numberOfTimes):
             currentPopulation = ode(currentPopulation, dt)
-            #If the population drops below 0, quit
-            #if (currentPopulation <= 0):
-            #    print(f"less than 0 population at {i} with value {currentPopulation}")
-            #    return populationHistory
-
             populationHistory.append(currentPopulation) 
 
     return populationHistory
