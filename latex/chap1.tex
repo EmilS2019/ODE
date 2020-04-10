@@ -1,0 +1,52 @@
+\section{Simple early model}
+
+\begin{flushleft}
+    We want to analyze how a rainbowfish population shiftes inside
+    of an aquarium over time. We wan't to know if it's feasable to
+    sell 20 fishes per day and still retain a population. This is why
+    we need to find the equalibrium points, were the fish population is
+    stable.
+\end{flushleft}
+
+
+\begin{flushleft}
+    For that we need to construct an Ordinary Differential Equation.
+    The growth rate of the rainbowfish population is 70\% with
+    a maximum aquarium capacity of 750 fishes. The death rate
+    is 0.001 times the population, aka one fish lives for 1000
+    days. But this is negligable and is removed. 20 rainbowdishes are
+    bought every day, so that's included in the model.
+\end{flushleft}
+
+\begin{equation}
+    \frac{dP}{dt} = 0.7P(t)(1-\frac{P(t)}{750})-20
+\end{equation}
+
+\begin{flushleft}
+
+    The model was then solved numericaly in Python using
+    eulers formula with $\Delta t=\frac{1}{16}$
+    which gave the following results:
+
+\end{flushleft}
+
+\begin{center}
+    \includegraphics[scale=0.4]{../figures/Figure_1.png}
+\end{center}
+
+\begin{flushleft}
+    As we can see, the amount of rainbowfish approaches somewhere
+    above 700.
+    The exact amount is 720.2, but since you can't have
+    fractional fish we can approximate it to 720. This is
+    a stable equilibrium point as it increases from below
+    and increases from above.
+\end{flushleft}
+
+\begin{flushleft}
+    As a conclusion this model does work for one fish,
+    however we want to introduce a second type of fish
+    into the model. The grourami.
+\end{flushleft}
+
+

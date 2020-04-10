@@ -6,11 +6,63 @@ INPUT E:\Filer\LATEx\Compiler\tex\latex\base\article.cls
 INPUT E:\Filer\LATEx\Compiler\tex\latex\base\article.cls
 INPUT E:\Filer\LATEx\Compiler\tex\latex\base\size10.clo
 INPUT E:\Filer\LATEx\Compiler\tex\latex\base\size10.clo
+INPUT E:\Filer\LATEx\Compiler\tex\latex\graphics\graphicx.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\graphics\graphicx.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\graphics\keyval.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\graphics\keyval.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\graphics\graphics.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\graphics\graphics.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\graphics\trig.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\graphics\trig.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\graphics-cfg\graphics.cfg
+INPUT E:\Filer\LATEx\Compiler\tex\latex\graphics-cfg\graphics.cfg
+INPUT E:\Filer\LATEx\Compiler\tex\latex\graphics-def\pdftex.def
+INPUT E:\Filer\LATEx\Compiler\tex\latex\graphics-def\pdftex.def
+INPUT E:\Filer\LATEx\Compiler\tex\latex\mathtools\empheq.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\mathtools\empheq.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\mathtools\mhsetup.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\mathtools\mhsetup.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\mathtools\mathtools.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\mathtools\mathtools.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\tools\calc.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\tools\calc.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\amsmath\amsmath.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\amsmath\amsmath.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\amsmath\amstext.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\amsmath\amstext.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\amsmath\amsgen.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\amsmath\amsgen.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\amsmath\amsbsy.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\amsmath\amsbsy.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\amsmath\amsopn.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\amsmath\amsopn.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\enumitem\enumitem.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\enumitem\enumitem.sty
 INPUT E:\Filer\LATEx\Compiler\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT E:\Filer\LATEx\Compiler\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT e:\projects\2020\April\Math Modelling\latex\report.aux
 INPUT e:\projects\2020\April\Math Modelling\latex\report.aux
 OUTPUT e:\projects\2020\April\Math Modelling\latex\report.aux
+INPUT E:\Filer\LATEx\Compiler\tex\context\base\mkii\supp-pdf.mkii
+INPUT E:\Filer\LATEx\Compiler\tex\context\base\mkii\supp-pdf.mkii
+INPUT E:\Filer\LATEx\Compiler\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT E:\Filer\LATEx\Compiler\tex\generic\infwarerr\infwarerr.sty
+INPUT E:\Filer\LATEx\Compiler\tex\generic\infwarerr\infwarerr.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\grfext\grfext.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\grfext\grfext.sty
+INPUT E:\Filer\LATEx\Compiler\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT E:\Filer\LATEx\Compiler\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\kvoptions\kvoptions.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\kvoptions\kvoptions.sty
+INPUT E:\Filer\LATEx\Compiler\tex\generic\ltxcmds\ltxcmds.sty
+INPUT E:\Filer\LATEx\Compiler\tex\generic\ltxcmds\ltxcmds.sty
+INPUT E:\Filer\LATEx\Compiler\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT E:\Filer\LATEx\Compiler\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\pdftexcmds\pdftexcmds.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\pdftexcmds\pdftexcmds.sty
+INPUT E:\Filer\LATEx\Compiler\tex\generic\iftex\iftex.sty
+INPUT E:\Filer\LATEx\Compiler\tex\generic\iftex\iftex.sty
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmr17.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmr12.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmr8.tfm
@@ -21,16 +73,43 @@ INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmmi6.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmsy10.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmsy8.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmsy6.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmex10.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmr12.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmbx12.tfm
+INPUT e:\projects\2020\April\Math Modelling\latex\chap1.tex
+INPUT e:\projects\2020\April\Math Modelling\latex\chap1.tex
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT ..\figures\Figure_1.png
+INPUT ..\figures\Figure_1.png
 OUTPUT e:\projects\2020\April\Math Modelling\latex\report.pdf
+INPUT ..\figures\Figure_1.png
+INPUT ..\figures\Figure_1.png
+INPUT ..\figures\Figure_1.png
 INPUT C:\Users\Emil\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT e:\projects\2020\April\Math Modelling\latex\chap2.tex
+INPUT e:\projects\2020\April\Math Modelling\latex\chap2.tex
+INPUT ..\figures\Figure_2.png
+INPUT ..\figures\Figure_2.png
+INPUT ..\figures\Figure_2.png
+INPUT ..\figures\Figure_2.png
+INPUT ..\figures\Figure_2.png
 INPUT e:\projects\2020\April\Math Modelling\latex\report.aux
 INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmsy10.pfb
