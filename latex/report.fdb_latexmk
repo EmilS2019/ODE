@@ -1,7 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1586530474 "e:/projects/2020/April/Math Modelling/latex/report.tex" "e:\projects\2020\April\Math Modelling\latex/report.pdf" "report" 1586530474
+["pdflatex"] 1586531548 "e:/projects/2020/April/Math Modelling/latex/report.tex" "e:\projects\2020\April\Math Modelling\latex/report.pdf" "report" 1586531549
   "../figures/Figure_1.png" 1586528965 22713 693576f91cfddd35a028fe65ccd8a349 ""
   "../figures/Figure_2.png" 1586529379 23045 fe883d15c06d9679ac8ec1615ebf83d2 ""
+  "../figures/Figure_3.png" 1586531015 28740 cfbe8e6529c4438cfc7834a9516deab6 ""
+  "../figures/Figure_4.png" 1586531539 41421 a7070273703b8a5e0a68eb5f1c17c18f ""
   "C:/Users/Emil/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1586513367 10005931 6fd34ae148c9b1e8cee18120aaac0625 ""
   "C:/Users/Emil/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1586530056 77580 0902bf85dfadfdef13ad4bb0cb98be38 ""
   "E:/Filer/LATEx/Compiler/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
@@ -56,14 +58,14 @@
   "E:/Filer/LATEx/Compiler/tex/latex/pdftexcmds/pdftexcmds.sty" 1574601224 19963 36fd8e818f9f0f32e2db8413d4970122 ""
   "E:/Filer/LATEx/Compiler/tex/latex/tools/calc.sty" 1580648486 10216 5efd55f2010055e7b7875afd6a75be82 ""
   "chap1.tex" 1586529528 1671 be1053e8b0ee667d9d1d9730d2bd21cc ""
-  "chap2.tex" 1586530473 966 9c49e1380553414be6cd6e273100c5b4 ""
+  "chap2.tex" 1586531548 1501 a2f4d300c7536b070c46c4687fc7d79b ""
   "e:/projects/2020/April/Math Modelling/latex/report.tex" 1586530115 550 7ed3daf89cfb52c1b8153164402dfaac ""
-  "e:\projects\2020\April\Math Modelling\latex/report.aux" 1586530474 611 09202bdff91e6cbb2902a470183c34e7 ""
-  "report.aux" 1586530474 611 09202bdff91e6cbb2902a470183c34e7 "pdflatex"
+  "e:\projects\2020\April\Math Modelling\latex/report.aux" 1586531549 611 9b2ff4d8bcb673557699d0ec1b8f42e8 ""
+  "report.aux" 1586531549 611 9b2ff4d8bcb673557699d0ec1b8f42e8 "pdflatex"
   "report.tex" 1586530115 550 7ed3daf89cfb52c1b8153164402dfaac ""
   (generated)
-  "report.log"
-  "report.aux"
   "e:\projects\2020\April\Math Modelling\latex/report.log"
-  "e:\projects\2020\April\Math Modelling\latex/report.pdf"
   "report.pdf"
+  "report.aux"
+  "e:\projects\2020\April\Math Modelling\latex/report.pdf"
+  "report.log"

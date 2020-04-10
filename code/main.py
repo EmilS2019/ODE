@@ -8,6 +8,12 @@ startingPopulation = [20, 5]
 yaxis = []
 #yaxis = (ODEs.eulersMethod(dt, startingPopulation, days, ODEs.twoFishPopulation))
 yaxis.append(ODEs.eulersMethod(dt, startingPopulation, days, ODEs.twoFishPopulation))
+yaxis.append(ODEs.eulersMethod(dt, [25,5], days, ODEs.twoFishPopulation))
+yaxis.append(ODEs.eulersMethod(dt, [10, 1], days, ODEs.twoFishPopulation))
+yaxis.append(ODEs.eulersMethod(dt, [2,2], days, ODEs.twoFishPopulation))
+yaxis.append(ODEs.eulersMethod(dt, [100, 40], days, ODEs.twoFishPopulation))
+yaxis.append(ODEs.eulersMethod(dt, [0, 20], days, ODEs.twoFishPopulation))
+yaxis.append(ODEs.eulersMethod(dt, [2, 0], days, ODEs.twoFishPopulation))
 #yaxis.append(ODEs.eulersMethod(dt*2, startingPopulation, days*2, ODEs.twoFishPopulation))
 xaxis = [i*dt+1 for i in range(int(days/dt+1))]
 
@@ -28,14 +34,17 @@ def extractTwoFishTypes(graph):
         G.append(graph[i][1])
         #PError = abs(P[i] - err[i][0])
         #GError = abs(G[i] - err[i][1])
-        print(f"number of fish at day {i*dt} was P={P[i]} and G={G[i]}")#" and the error of P is {PError} and of G {GError}")
+        #print(f"number of fish at day {i*dt} was P={P[i]} and G={G[i]}")#" and the error of P is {PError} and of G {GError}")
     return [P,G]
     
-PG_1 = extractTwoFishTypes(yaxis[0])
-#PG_2 = extractTwoFishTypes(yaxis[1])
-#PG_3 = extractTwoFishTypes(yaxis[2])
+for i in range(len(yaxis)):
+    fishes = extractTwoFishTypes(yaxis[i])
+    plt.plot(fishes[0],fishes[1])
+    #PG_1 = extractTwoFishTypes(yaxis[0])
+    #PG_2 = extractTwoFishTypes(yaxis[1])
+    #PG_3 = extractTwoFishTypes(yaxis[2])
 
-plt.plot(PG_1[0],PG_1[1])
+#plt.plot(PG_1[0],PG_1[1])
 #plt.plot(PG_2[0],PG_2[1])
 #plt.plot(PG_3[0],PG_3[1])
 #plt.plot(xaxis, yaxis)
@@ -50,8 +59,8 @@ newThing.append(ODEs.eulersMethod(1/16, 30, 50, ODEs.fishPopulation))
 
 
 plt.autoscale()
-plt.ylabel('Fish')
-plt.xlabel('Days')
+plt.ylabel('Rainbowfish')
+plt.xlabel('Gourami')
 plt.grid(True)
 plt.xticks(fontsize = 15)
 plt.yticks(fontsize = 15)
