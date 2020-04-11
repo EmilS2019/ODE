@@ -82,10 +82,10 @@ INPUT e:\projects\2020\April\Math Modelling\latex\summary.tex
 INPUT e:\projects\2020\April\Math Modelling\latex\summary.tex
 INPUT e:\projects\2020\April\Math Modelling\latex\introduction.tex
 INPUT e:\projects\2020\April\Math Modelling\latex\introduction.tex
-INPUT e:\projects\2020\April\Math Modelling\latex\chap1.tex
-INPUT e:\projects\2020\April\Math Modelling\latex\chap1.tex
 OUTPUT e:\projects\2020\April\Math Modelling\latex\report.pdf
 INPUT C:\Users\Emil\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT e:\projects\2020\April\Math Modelling\latex\chap1.tex
+INPUT e:\projects\2020\April\Math Modelling\latex\chap1.tex
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT ..\figures\Figure_1.png
