@@ -38,6 +38,8 @@ INPUT E:\Filer\LATEx\Compiler\tex\latex\amsmath\amsopn.sty
 INPUT E:\Filer\LATEx\Compiler\tex\latex\amsmath\amsopn.sty
 INPUT E:\Filer\LATEx\Compiler\tex\latex\enumitem\enumitem.sty
 INPUT E:\Filer\LATEx\Compiler\tex\latex\enumitem\enumitem.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\float\float.sty
+INPUT E:\Filer\LATEx\Compiler\tex\latex\float\float.sty
 INPUT E:\Filer\LATEx\Compiler\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT E:\Filer\LATEx\Compiler\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT e:\projects\2020\April\Math Modelling\latex\report.aux
@@ -47,22 +49,6 @@ INPUT E:\Filer\LATEx\Compiler\tex\context\base\mkii\supp-pdf.mkii
 INPUT E:\Filer\LATEx\Compiler\tex\context\base\mkii\supp-pdf.mkii
 INPUT E:\Filer\LATEx\Compiler\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT E:\Filer\LATEx\Compiler\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT E:\Filer\LATEx\Compiler\tex\generic\infwarerr\infwarerr.sty
-INPUT E:\Filer\LATEx\Compiler\tex\generic\infwarerr\infwarerr.sty
-INPUT E:\Filer\LATEx\Compiler\tex\latex\grfext\grfext.sty
-INPUT E:\Filer\LATEx\Compiler\tex\latex\grfext\grfext.sty
-INPUT E:\Filer\LATEx\Compiler\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT E:\Filer\LATEx\Compiler\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT E:\Filer\LATEx\Compiler\tex\latex\kvoptions\kvoptions.sty
-INPUT E:\Filer\LATEx\Compiler\tex\latex\kvoptions\kvoptions.sty
-INPUT E:\Filer\LATEx\Compiler\tex\generic\ltxcmds\ltxcmds.sty
-INPUT E:\Filer\LATEx\Compiler\tex\generic\ltxcmds\ltxcmds.sty
-INPUT E:\Filer\LATEx\Compiler\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT E:\Filer\LATEx\Compiler\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT E:\Filer\LATEx\Compiler\tex\latex\pdftexcmds\pdftexcmds.sty
-INPUT E:\Filer\LATEx\Compiler\tex\latex\pdftexcmds\pdftexcmds.sty
-INPUT E:\Filer\LATEx\Compiler\tex\generic\iftex\iftex.sty
-INPUT E:\Filer\LATEx\Compiler\tex\generic\iftex\iftex.sty
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmr17.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmr12.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmr8.tfm
@@ -78,6 +64,10 @@ INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmr12.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmbx12.tfm
+INPUT e:\projects\2020\April\Math Modelling\latex\report.toc
+INPUT e:\projects\2020\April\Math Modelling\latex\report.toc
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmbx10.tfm
+OUTPUT e:\projects\2020\April\Math Modelling\latex\report.toc
 INPUT e:\projects\2020\April\Math Modelling\latex\summary.tex
 INPUT e:\projects\2020\April\Math Modelling\latex\summary.tex
 INPUT e:\projects\2020\April\Math Modelling\latex\introduction.tex
@@ -113,6 +103,8 @@ INPUT ..\figures\Figure_4.png
 INPUT e:\projects\2020\April\Math Modelling\latex\conclusions.tex
 INPUT e:\projects\2020\April\Math Modelling\latex\conclusions.tex
 INPUT e:\projects\2020\April\Math Modelling\latex\report.aux
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT E:\Filer\LATEx\Compiler\fonts\type1\public\amsfonts\cm\cmex10.pfb

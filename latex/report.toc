@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Summary}{1}%
+\contentsline {section}{\numberline {2}Introduction}{2}%
+\contentsline {section}{\numberline {3}Simple early model}{2}%
+\contentsline {section}{\numberline {4}Model including the second fish}{3}%
+\contentsline {section}{\numberline {5}Conclusions}{5}%
+\contentsline {section}{\numberline {6}Appendix}{5}%

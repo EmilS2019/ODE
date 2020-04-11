@@ -12,10 +12,14 @@
 \begin{flushleft}
     For that we need to construct an Ordinary Differential Equation.
     The growth rate of the rainbowfish population is 70\% with
-    a maximum aquarium capacity of 750 fishes. The death rate
-    is 0.001 times the population, aka one fish lives for 1000
-    days. But this is negligable and is removed. 20 rainbowdishes are
-    bought every day, so that's included in the model.
+    a maximum aquarium capacity of 750 fishes. The death rate is
+    estimated to be 0.001 because one fish lives for 1000
+    days, therefore the odds of a fish dying is 0.001, which is then
+    multiplied by the number of fishes. $0.001P(t)$
+    However this is negligable and is
+    removed since the decrease it makes is really small.
+    Also, 20 rainbowfishes are sold every day,
+    so that's included in the model and is not negligable.
 \end{flushleft}
 
 \begin{equation}
@@ -30,14 +34,16 @@
 
 \end{flushleft}
 
-\begin{center}
+\begin{figure}[H]
+    \centering
     \includegraphics[scale=0.4]{../figures/Figure_1.png}
-\end{center}
+    \caption{The number of rainbowfish over time with $P(0)=20$}
+\end{figure}
 
 \begin{flushleft}
     As we can see, the amount of rainbowfish approaches somewhere
     above 700.
-    The exact amount is 720.2, but since you can't have
+    The exact amount is 720.2, but since you can not have
     fractional fish we can approximate it to 720. This is
     a stable equilibrium point as it increases from below
     and increases from above.
