@@ -62,22 +62,25 @@ INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmsy6.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmex10.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+OUTPUT e:\projects\2020\April\Math Modelling\latex\report.pdf
+INPUT C:\Users\Emil\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmr12.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmbx12.tfm
 INPUT e:\projects\2020\April\Math Modelling\latex\report.toc
 INPUT e:\projects\2020\April\Math Modelling\latex\report.toc
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmbx10.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 OUTPUT e:\projects\2020\April\Math Modelling\latex\report.toc
 INPUT e:\projects\2020\April\Math Modelling\latex\summary.tex
 INPUT e:\projects\2020\April\Math Modelling\latex\summary.tex
+INPUT e:\projects\2020\April\Math Modelling\latex\listOfVariables.tex
+INPUT e:\projects\2020\April\Math Modelling\latex\listOfVariables.tex
 INPUT e:\projects\2020\April\Math Modelling\latex\introduction.tex
 INPUT e:\projects\2020\April\Math Modelling\latex\introduction.tex
-OUTPUT e:\projects\2020\April\Math Modelling\latex\report.pdf
-INPUT C:\Users\Emil\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT e:\projects\2020\April\Math Modelling\latex\chap1.tex
 INPUT e:\projects\2020\April\Math Modelling\latex\chap1.tex
-INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmbx12.tfm
 INPUT ..\figures\Figure_1.png
 INPUT ..\figures\Figure_1.png
 INPUT ..\figures\Figure_1.png

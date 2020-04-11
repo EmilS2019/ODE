@@ -1,6 +1,11 @@
-\contentsline {section}{\numberline {1}Summary}{1}%
-\contentsline {section}{\numberline {2}Introduction}{2}%
-\contentsline {section}{\numberline {3}Simple early model}{2}%
-\contentsline {section}{\numberline {4}Model including the second fish}{3}%
-\contentsline {section}{\numberline {5}Conclusions}{5}%
-\contentsline {section}{\numberline {6}Appendix}{5}%
+\contentsline {section}{Summary}{3}%
+\contentsline {section}{List of Variables}{3}%
+\contentsline {section}{\numberline {1}Introduction}{3}%
+\contentsline {section}{\numberline {2}First Model}{4}%
+\contentsline {subsection}{\numberline {2.1}Deriving the ODE for the rainbowfish population}{4}%
+\contentsline {subsection}{\numberline {2.2}Results from numerical solution in Python}{4}%
+\contentsline {section}{\numberline {3}Second model}{5}%
+\contentsline {subsection}{\numberline {3.1}Deriving a system of ODE's with gourami fish}{5}%
+\contentsline {subsection}{\numberline {3.2}Numerically solving the system in Python}{5}%
+\contentsline {section}{\numberline {4}Conclusions}{7}%
+\contentsline {section}{\numberline {5}Appendix}{7}%
