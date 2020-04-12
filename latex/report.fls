@@ -62,7 +62,12 @@ INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmsy6.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmex10.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT ..\figures\rainbowfish.jpg
+INPUT ..\figures\rainbowfish.jpg
 OUTPUT e:\projects\2020\April\Math Modelling\latex\report.pdf
+INPUT ..\figures\rainbowfish.jpg
+INPUT ..\figures\rainbowfish.jpg
+INPUT ..\figures\rainbowfish.jpg
 INPUT C:\Users\Emil\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmr12.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmbx12.tfm
