@@ -8,4 +8,3 @@
 \contentsline {subsection}{\numberline {3.1}Deriving a system of ODE's with gourami fish}{5}%
 \contentsline {subsection}{\numberline {3.2}Numerically solving the system in Python}{5}%
 \contentsline {section}{\numberline {4}Conclusions}{7}%
-\contentsline {section}{\numberline {5}Appendix}{7}%

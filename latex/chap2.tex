@@ -2,12 +2,11 @@
 
 \subsection{Deriving a system of ODE's with gourami fish}
 \begin{flushleft}
-    The fishowner desperately wanted two types of competing fish species:
-    rainbowfish and gourami. The budget was for 20 rainbowfish and 5 gourami.
-    To make sure that both fishes both had enough food and didn't manage to kill eachother
-    we made a system of differential equations. In this case they interact with each other.
-    There is a 4\% chance that a gourami will kill a rainbowfish, thus the $-0.04PG$.
-    Gouramis also don't survive on their own so they slowly die, explaining the $-0.25G$
+    The fish owner desperately wanted two types of fish species:
+    rainbowfish and gourami. The current supply and budget allows for 20 rainbowfish and 5 gourami.
+    To make sure that both fishes both had enough food and didn't go extinct a system of differential equations were derived.
+    There is a 4\% chance that a gourami will kill a rainbowfish, or in math terms $-0.04PG$.
+    Gouramis also don't survive on their own so they slowly die, in math terms $-0.25G$
 \end{flushleft}
 
 \begin{align*}[left = \empheqlbrace]
@@ -18,14 +17,14 @@
 \subsection{Numerically solving the system in Python}
 \begin{flushleft}
     Now doing the rest was easy. So easy in fact that I wanted to shoot my foot
-    with a rocket launcher. The result are shown below.
+    with a rocket launcher. The results are shown below.
 
 \end{flushleft}
 \begin{figure}[H]
     \includegraphics[scale=0.4]{../figures/Figure_2.png}
     \centering
-    \caption{Number of rainbowfish(Blue) and gourami (orange) over time. Note that the
-        rainbowfish population is slightly "behind" the gourami population}
+    \caption{Number of rainbowfish(Blue) and gourami (Orange) over time. Note that the
+        rainbowfish population is shifting slightly "behind" the gourami population}
     \label{two}
 \end{figure}
 
@@ -37,17 +36,20 @@
 \end{figure}
 
 \begin{flushleft}
-    These models tells us that the fish seem to approach an equilibrium at roughtly
+    These models tells us that the fish seem to approach an equilibrium at roughly
     30 rainbowfishes and 12 gourami. The exact equilibrium point is when $\frac{dP}{dt}=0$ and $\frac{dG}{dt}=0$.
     This evaluates to the number of rainbowfish being 31.25 and the amount of gourami is 12.03125. Again, since you
-    cannot have fractional fishes the equilibrium is roughly at 31 rainbowfish and 12 gourami.
+    cannot have fractional fishes the equilibrium is approximated to be at 31 rainbowfish and 12 gourami.
 
 \end{flushleft}
 
 \begin{flushleft}
     Modelling a few more scenarios with different
-    starting populations reveal that there is a stable equilibrium point aslong as
-    the amount of fish of one species is more than 0. It creates a "vortex shape"
+    starting populations reveal that there is a stable equilibrium point
+    as long as the amount of fish of one species is more than 0. The reason
+    for doing this is for extra accuracy.
+    If you plot fish populations against each other rather than over
+    time as shown in figure \ref{vortex} it creates a "vortex shape"
     since the populations always approach the equilibrium value.
 \end{flushleft}
 
@@ -58,4 +60,7 @@
         Note that if you begin
         with 0 rainbowfish the gourami always drop to 0 and if you begin with 0
         gourami then the rainbowfish will approach 100}
+    \label{vortex}
 \end{figure}
+
+
